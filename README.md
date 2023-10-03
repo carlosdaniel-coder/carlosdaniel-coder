@@ -1,6 +1,5 @@
 ### Olá eu sou Carlos Daniel 👋
 
-- 🔭 Atualmente estou trabalhando em front-end, back-end e python
 - 🌱 Estudando React
 - 📫 Como chegar até mim: danielmdsviestu9900@gmail.com
 - 😄 Pronomes: ele/dele
@@ -8,8 +7,6 @@
 - 🦾 Estetica
 ##
 <div>
-  <a href="https://github.com/carlosdaniel-coder">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carlosdaniel-coder&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdaniel-coder&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
