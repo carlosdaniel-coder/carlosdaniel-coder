@@ -1,10 +1,8 @@
 ### Olá eu sou Carlos Daniel 👋
 
-- 🌱 Estudando React
 - 📫 Como chegar até mim: danielmdsviestu9900@gmail.com
 - 😄 Pronomes: ele/dele
-- ⚡ Hobby: estudar programação, aprender inglês, ler livros, jogar xadrez, calistenia
-- 🦾 Estetica
+- ⚡ Hobby: estudar programação, aprender inglês, ler livros, jogar xadrez
 ##
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdaniel-coder&layout=compact&langs_count=7&theme=highcontrast"/>
